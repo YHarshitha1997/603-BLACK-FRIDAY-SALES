@@ -1,9 +1,3 @@
-Team:
-Harshitha Yentrapragada
-Jayaprakash Lavdyavath  
-Meghana Barrenkabavi
- 
-
 Data Source: https://www.kaggle.com/sdolezel/black-friday
 Dataset Size: 25.53 MB
 
